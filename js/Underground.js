@@ -3,7 +3,7 @@ let questions = [];
 async function loadQuestions(){
 
     const response =
-    await fetch("3rd_semester/js/Underground.json");
+    await fetch("./js/Underground.json");
 
     questions =
     await response.json();
