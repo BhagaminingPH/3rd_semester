@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "Long wall mining method is best suited for?",
+    "options": [
+      "Flat and moderately flat seam",
+      "Steeply inclined seam",
+      "Fractured and geologically disturbed seam",
+      "Seam with high cavability index"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "question": "First generation powered support is?",
+    "options": [
+      "Check shield",
+      "Shield",
+      "Frame",
+      "Chock"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "question": "Which of the following occurs first in underground coal mines?",
+    "options": [
+      "Periodic fall",
+      "Main fall",
+      "Local fall",
+      "Air blast"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "Over 90% of underground coal production in India comes from which method?",
+    "options": [
+      "Long wall method",
+      "Hydraulic mining method",
+      "Blasting gallery method",
+      "Board and pillar method"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "question": "A road in a proper coal seam is called?",
+    "options": [
+      "Travelling road",
+      "Gallery",
+      "Drift",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "The distance between centers of adjacent pillars shall not be less than what value if the width of the gallery is 3–6 m and the depth of the seam from the surface is 350 m?",
+    "options": [
+      "28.5 m",
+      "34.5 m",
+      "39.5 m",
+      "25.5 m"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "During the extraction of pillars, no splitting or reduction of pillars or heightening of galleries shall be effected for a distance greater than the?",
+    "options": [
+      "Length of four pillars",
+      "Length of adjacent pillars",
+      "Length of consecutive pillars",
+      "Length of two pillars"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "question": "In degree-II mines, what minimum quantity of air should be conducted up to 3 m from the face where solid blasting is done?",
+    "options": [
+      "244 m³/min",
+      "264 m³/min",
+      "284 m³/min",
+      "300 m³/min"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "Horizon mining for coal mining is more suitable where?",
+    "options": [
+      "Horizontal coal seam",
+      "Highly disturbed coal seam",
+      "Slightly dipping coal seam",
+      "Coal seams are found above the earth's surface"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Longwall method is applicable for?",
+    "options": [
+      "Thin coal seam",
+      "Deep mining",
+      "Thick coal seam",
+      "Very deep mining and thick coal seam"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "In the longwall method, the roadway used for supplies of material and return air is called?",
+    "options": [
+      "Side gate",
+      "Main gate",
+      "Heading",
+      "Tail gate"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "question": "Which factor in subsidence helps in determining the extent of subsidence?",
+    "options": [
+      "Angle of break",
+      "Critical width",
+      "Angle of draw",
+      "Surface strain"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Which of the following techniques is used in the bord-and-pillar method for extraction of pillars?",
+    "options": [
+      "Single unit face",
+      "Half-moon method",
+      "Horizontal slicing",
+      "Blasting gallery"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "For a good and strong roof, the preferred line of extraction is?",
+    "options": [
+      "Step diagonal",
+      "Steep diagonal",
+      "Straight",
+      "Diagonal"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "question": "The width of galleries shall not exceed _____ and the height of galleries shall not exceed _____.",
+    "options": [
+      "3 m,    4 m",
+      "4.8 m,  3 m",
+      "4.8 m,  4 m",
+      "3 m,    3.5 m"
+    ],
+    "answer": 1
+  }
+]
